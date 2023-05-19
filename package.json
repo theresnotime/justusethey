@@ -1,0 +1,21 @@
+{
+    "name": "justusethey",
+    "version": "1.0.0",
+    "description": "Just Use They",
+    "scripts": {
+        "test": "npx prettier -c public"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    },
+    "prettier": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": false,
+        "singleQuote": true,
+        "bracketSameLine": true,
+        "printWidth": 100
+    }
+}
