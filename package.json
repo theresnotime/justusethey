@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "description": "Just Use They",
     "scripts": {
-        "test": "npx prettier -c public"
+        "test": "npx prettier -c public",
+        "format": "npx prettier --write public"
     },
     "author": "",
     "license": "MIT",
