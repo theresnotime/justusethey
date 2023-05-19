@@ -15,4 +15,5 @@ Please remember to run `npm run format` before committing, otherwise the CI will
 
 ## Credits, etc.
  - Folx on the fediverse who gave their comments [at my thread](https://iscurrently.live/@theresnotime/110392431149114870) about using *they/them* by default.
+ - Some inspiration was taken from [this Wikipedia essay](https://en.wikipedia.org/wiki/Wikipedia:Editors%27_pronouns#Best_practices) on editors' pronouns.
  - The rainbow flag is a [twemoji](https://github.com/twitter/twemoji) emoji, so [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Twemoji13_1f3f3-fe0f-200d-1f308.svg).
