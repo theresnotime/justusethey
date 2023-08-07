@@ -9,7 +9,7 @@
     "author": "",
     "license": "MIT",
     "devDependencies": {
-        "prettier": "^2.7.1"
+        "prettier": "^3.0.1"
     },
     "prettier": {
         "trailingComma": "es5",
